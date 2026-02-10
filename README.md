@@ -6,3 +6,5 @@
 
 
 
+placements training is exhausting.
+
