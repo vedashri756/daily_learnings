@@ -16,3 +16,7 @@ ture. Traversals visit all nodes: Inorder (L-Root-R), Preorder (Root-L-R), Posto
 
 Space O(n), Height-balanced O(logn), worst-case skewed O(n).
 
+
+
+Sharks are older than trees
+
