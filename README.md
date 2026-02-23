@@ -20,3 +20,7 @@ Space O(n), Height-balanced O(logn), worst-case skewed O(n).
 
 Sharks are older than trees
 
+
+
+High-level abstractions offered by libraries like llama-index and Langchain have simplified the development of Retrieval Augmented Generation (RAG) systems.
+
