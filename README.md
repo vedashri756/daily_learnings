@@ -24,3 +24,7 @@ Sharks are older than trees
 
 High-level abstractions offered by libraries like llama-index and Langchain have simplified the development of Retrieval Augmented Generation (RAG) systems.
 
+
+
+There are more trees on Earth than stars in the Milky Way galaxy, yet light from the sun takes eight minutes to reach us.
+
