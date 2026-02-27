@@ -28,3 +28,9 @@ High-level abstractions offered by libraries like llama-index and Langchain have
 
 There are more trees on Earth than stars in the Milky Way galaxy, yet light from the sun takes eight minutes to reach us.
 
+
+
+Lightning strikes can reach temperatures of roughly 30,000 kelvins (
+
+), which is five times hotter than the surface of the Sun. 
+
